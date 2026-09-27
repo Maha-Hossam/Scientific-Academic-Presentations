@@ -15,3 +15,6 @@ The presentation covers:
 * Fibrin polymerization and fiber formation
 * Protofibril formation, lateral aggregation, and cross-linking
 * The role of Factor XIIIa in clot stabilization
+## Presentation
+
+📄 **[View the PDF]**
