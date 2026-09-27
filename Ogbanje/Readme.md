@@ -10,6 +10,9 @@ The presentation covers:
 * Common beliefs and narratives associated with Ogbanje.
 * The relationship between sickle cell trait and malaria.
 * Current approaches to the treatment and management of Sickle Cell Disease.
+## Presentation
+
+📄 **[View the PDF]**
   
 ## Presentation
 ▶️ **[Watch the Presentation](https://youtu.be/AA7iPFqXop0)**
