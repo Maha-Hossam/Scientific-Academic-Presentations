@@ -12,4 +12,6 @@ The presentation covers:
 * Early investigations into electrical phenomena in plants
 * Electrical signaling in the Venus flytrap
 * The role of electrical signals and ion channels in plant physiology
+## Presentation
 
+📄 **[View the PDF]**
