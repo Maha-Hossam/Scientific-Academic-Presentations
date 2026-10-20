@@ -34,13 +34,6 @@ My contribution focused on building the scientific background, explaining the ex
 - Why selectively activating specific neuronal populations is a challenging scientific problem.
 - How the development of optogenetics helped researchers overcome limitations of earlier experimental approaches.
 
-##Learning Objectives
-- Understand the historical and scientific context of the 2026 Nobel Prize in Physiology or Medicine.
-- Recognize the contributions of the three Nobel laureates to optogenetics.
-- Distinguish correlation from causation in neuroscience research.
-- Understand how light-sensitive ion channels can be used to manipulate neuronal activity.
-- Appreciate the interdisciplinary connection between biophysics, neuroscience, and molecular biology.
-
 ## 🎥 Presentation Video
 [▶️ Watch the Full Presentation]([https://www.youtube.com/watch?v=abc123XYZ](https://youtu.be/3QNwWOOc0To?si=jrzt1NveuIyeWyrE))
 
