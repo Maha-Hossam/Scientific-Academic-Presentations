@@ -35,7 +35,7 @@ My contribution focused on building the scientific background, explaining the ex
 - How the development of optogenetics helped researchers overcome limitations of earlier experimental approaches.
 
 ## 🎥 Presentation Video
-[▶️ Watch the Full Presentation]([https://www.youtube.com/watch?v=abc123XYZ](https://youtu.be/3QNwWOOc0To?si=jrzt1NveuIyeWyrE))
+[▶️ Watch the Full Presentation](https://youtu.be/3QNwWOOc0To?si=jrzt1NveuIyeWyrE)
 
 ## 📚 References & Further Reading
 - [The Nobel Prize in Physiology or Medicine 2026 — NobelPrize.org](https://www.nobelprize.org/prizes/medicine/2026/)
